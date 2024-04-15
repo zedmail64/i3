@@ -1,1 +1,1 @@
-i3 debian config Stand 15.04.24
+i3 debian config Stand 15.04.24 ö
